@@ -1,4 +1,4 @@
-(https://i.ibb.co/CVmV26M/Rashedul-Haque-5.png)
+![ ](https://i.ibb.co/CVmV26M/Rashedul-Haque-5.png)
 
 # 💫 About Me:
 Hi! I am Rashedul Haque Rasel, Web Developer.
