@@ -5,7 +5,7 @@ I am Rashedul Haque Rasel, and I am a Front-end web developer. Coding is my Hobb
 
 <h3>My Skills:</h3>
 
-- Master of the Modern Web: React, ES6+, HTML5, CSS3
+- Master of the Modern Web: Html, CSS, React
 - UI/UX Champion: Tailwind CSS/Bootstrap for rapid styling
 - Data Wrangler: Express.js (Node.js) & MongoDB (or similar)
 - Firebase Fanatic: Secure authentication made easy
